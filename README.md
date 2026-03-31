@@ -51,8 +51,19 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayasubramya21&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayasubramya21&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=vijayasubramya21&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayasubramya21&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
