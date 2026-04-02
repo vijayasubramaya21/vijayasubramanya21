@@ -1,80 +1,56 @@
-<h1 align="center">Hey 👋, I'm Vijayasubramanya</h1>
-<h3 align="center">🚀 Software Developer | Python | React.js | Full Stack Developer</h3>
+# 👋 Hi, I'm Vijayasubramanya
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Python+%7C+React+Developer;Building+Real+World+Applications;Open+to+Opportunities" />
-</p>
-
----
-
-## 💎 Professional Summary
-
-- 🎓 MCA Graduate (CGPA: 8.18)  
-- 💻 Software Developer with strong Python & React.js skills  
-- ⚡ Internship experience at Codec Technologies  
-- 📊 Built scalable web applications & real-time systems  
+💻 Aspiring Software Developer  
+🚀 Passionate about Web Development & Real-Time Applications  
+📍 India  
 
 ---
 
-## 🚀 Tech Stack
-
-**Languages:** Python | Java | JavaScript | PHP | HTML5 | CSS3  
-**Frontend:** React.js, AJAX  
-**Backend:** MySQL, MongoDB, PHP  
-**Tools:** Git, GitHub, VS Code, Postman  
+## 🌐 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/vijayasubramanyahm-software-developer  
+- 📧 Email: vijayasubramanyahm@gmail.com  
 
 ---
 
-## 💼 Experience
-
-**Python Developer Intern – Codec Technologies**
-- Improved runtime by **15%**
-- Increased accuracy by **20%**
-- Reduced bugs by **10%**
+## 🛠 Tech Stack
+- 💻 Languages: JavaScript, Python, PHP  
+- 🌐 Frontend: HTML, CSS, React.js  
+- ⚙️ Backend: Python, PHP  
+- 🗄️ Database: MySQL  
 
 ---
 
-## 🌟 Projects
+## 🚀 Projects
 
-**🛡️ Safe Guard (Women Safety App)**
-- Real-time tracking using Google Maps  
-- Voice-based SOS system  
+### 🛡️ Women Safety Web App
+- Emergency alert system  
+- Contact management  
+- Alert history tracking  
 
-**🍱 Food Waste Management System**
-- Admin, User, Delivery modules  
-- Real-time updates using AJAX  
-
-**🏫 College Management System**
-- Student & admin data system  
+### 🍱 Food Waste Management System
+- Food donation & distribution system  
+- Admin & delivery modules  
+- Database integration  
 
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijayasubramaya21&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayasubramaya21&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=vijayasubramaya21&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayasubramaya21&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayasubramaya21&theme=tokyo-night&hide_border=true" />
-</p>
+![Snake](https://github.com/vijayasubramaya21/vijayasubramaya21/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
-## 🔗 Connect With Me
-
-📧 vijayasubramanyahm@gmail.com  
-💼 https://www.linkedin.com/in/vijayasubramanyahm-software-developer  
+## 🎯 Goal
+To become a skilled software developer and build impactful real-world applications.
 
 ---
 
-## ⚡ Quote
-
-"Learning today, building tomorrow 🚀"
+⭐ From [vijayasubramaya21](https://github.com/vijayasubramaya21)
