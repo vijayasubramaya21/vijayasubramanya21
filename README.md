@@ -39,4 +39,4 @@ I'm an MCA graduate with hands-on experience in data processing, SQL, and Python
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vijayasubramanyahm-dataanalyst)
 - 📧 vijayasubramanyahm@gmail.com
-- 🌐 Portfolio — *(add your GitHub Pages link here once live)*
+- 🌐 Portfolio(https://vijayasubramaya21.github.io)
