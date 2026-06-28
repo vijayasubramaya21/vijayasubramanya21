@@ -1,56 +1,42 @@
-# 👋 Hi, I'm Vijayasubramanya
+# Hi, I'm Vijayasubramanya H M 👋
 
-💻 Aspiring Software Developer  
-🚀 Passionate about Web Development & Real-Time Applications  
-📍 India  
+**Data Analyst** — turning raw, messy data into dashboards and reports that businesses actually use to make decisions.
 
----
+I'm an MCA graduate with hands-on experience in data processing, SQL, and Python (Pandas, NumPy), plus dashboard reporting in Excel, Tableau, and Power BI. During a professional internship, I helped cut processing runtime by 15% and improve workflow accuracy by 20% through data-driven process changes.
 
-## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/vijayasubramanyahm-software-developer  
-- 📧 Email: vijayasubramanyahm@gmail.com  
+🔍 **Currently:** building out real, end-to-end analyst projects — from messy raw data to cleaned datasets to dashboards with actionable findings.
 
 ---
 
-## 🛠 Tech Stack
-- 💻 Languages: JavaScript, Python, PHP  
-- 🌐 Frontend: HTML, CSS, React.js  
-- ⚙️ Backend: Python, PHP  
-- 🗄️ Database: MySQL  
+### 🛠️ Core Skills
+
+| | |
+|---|---|
+| **Languages & Querying** | Python · SQL · Java · JavaScript |
+| **Data Analysis** | Pandas · NumPy · Statistical Analysis · Data Cleaning |
+| **Visualization & BI** | Tableau · Power BI · Excel (Pivot Tables, Power Query) |
+| **Databases** | MySQL · MongoDB |
+| **Machine Learning** | Scikit-learn · Basic ML Modeling |
 
 ---
 
-## 🚀 Projects
+### 📌 Featured Projects
 
-### 🛡️ Women Safety Web App
-- Emergency alert system  
-- Contact management  
-- Alert history tracking  
-
-### 🍱 Food Waste Management System
-- Food donation & distribution system  
-- Admin & delivery modules  
-- Database integration  
+- **[Sales & Revenue Performance Dashboard](https://github.com/vijayasubramaya21/sales-revenue-dashboard)** — Cleaned a year of messy order-level sales data and surfaced a real category-level decline before it would've shown up in annual numbers. *(SQL-style cleaning, Python, Pandas, Matplotlib)*
+- *Customer Churn Analysis — coming soon*
 
 ---
 
-## 📊 GitHub Stats
+### 📜 Certifications
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijayasubramaya21&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayasubramaya21&layout=compact&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake](https://github.com/vijayasubramaya21/vijayasubramaya21/blob/main/dist/github-contribution-grid-snake.svg)
+- Data Analytics Essentials — Cisco Networking Academy
+- Data Analytics Job Simulation — Deloitte (via Forage)
+- AI Upskilling (Technical Foundation & Hands-On Development) — Qualcomm Academy
 
 ---
 
-## 🎯 Goal
-To become a skilled software developer and build impactful real-world applications.
+### 📫 Let's connect
 
----
-
-⭐ From [vijayasubramaya21](https://github.com/vijayasubramaya21)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vijayasubramanyahm-dataanalyst)
+- 📧 vijayasubramanyahm@gmail.com
+- 🌐 Portfolio — *(add your GitHub Pages link here once live)*
